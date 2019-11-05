@@ -14,7 +14,7 @@ Bu reponun amacı, App Store Optimization ile ilgili faydalı kaynakları bir ar
 ## Youtube Kanalları
 - [AppMasters](https://www.youtube.com/user/steviepyoung) - Steve, AppMasters'ın kurucusu ve bu kanalda hem kendisi hem de ekosistemdeki diğer yetkin kişiler ASO üzerine değerli bilgiler aktarıyorlar.
 
-## EBook'lar
+## Kitaplar
 - [Advanced ASO](https://asoebook.com/) - Gabe ve Moritz'in liderliğinde yazılan bu kitap ekosistemdeki en derin bilgilendirmeye sahip, kapsayıcı kitaplardan birisi. ASO ile ilgili hangi düzeyde olursanız olun, bu kitap sizi geliştirecektir.
 
 
