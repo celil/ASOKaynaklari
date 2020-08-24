@@ -11,6 +11,8 @@ Bu reponun amacı, App Store Optimization ile ilgili faydalı kaynakları bir ar
 - [TheTool Blog](https://thetool.io/blog) - ASO için geliştirdikleri yardımcı aracın yanında ilginç vaka kayıtlarını da paylaşan bir ekibin blog sitesi.
 - [StoreMaven Blog](https://www.storemaven.com/aso-blog/) - Mağaza dönüşüm optimizasyonu aracı olan StoreMaven özellikle ekran görüntüsü optimizasyonu üzerine kayda değer vaka analizleri paylaşıyor.
 - [Mobile Growth Istanbul](https://medium.com/mobile-growth-istanbul) - Istanbul merkezli Mobile Growth topluluğunun üyeleri kendi deneyimlerinden growth ve ASO üzerine içerikler üretiyorlar.
+- [MobileAction](https://www.mobileaction.co/blog/) - App Store Optimization üzerine çalışan MobileAction'a ait blog sitesi.
+
 
 ## Youtube Kanalları
 - [AppMasters](https://www.youtube.com/user/steviepyoung) - Steve, AppMasters'ın kurucusu ve bu kanalda hem kendisi hem de ekosistemdeki diğer yetkin kişiler ASO üzerine değerli bilgiler aktarıyorlar.
